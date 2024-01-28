@@ -1,5 +1,5 @@
-[### Hi there 👋](https://count.dsrkafuu.net/{id}
-https://count.dsrkafuu.net/{id}?theme={asoul,gelbooru,moebooru,rule34}&render={auto,pixelated}&length={1-10,auto}&add={0,1})
+https://count.dsrkafuu.net/{id}
+https://count.dsrkafuu.net/{id}?theme={asoul,gelbooru,moebooru,rule34}&render={auto,pixelated}&length={1-10,auto}&add={0,1}
 
 <!--
 **zxxtlz/zxxtlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
